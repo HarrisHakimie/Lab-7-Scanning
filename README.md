@@ -1,7 +1,7 @@
 ## Lab-7-Scanning
 #TASK 7
 
-## QUESTION 1 : ANALYSE PACKET1.PCAP AND FIND THE FLAG.
+## Question 1 : Analyse Packet1.Pcap And Find The Flag.
 
 ## Answer Question 1 :
 <img width="1648" height="895" alt="TRY" src="https://github.com/user-attachments/assets/672b2cab-2577-409c-abaf-ffc13236277f" />
@@ -13,7 +13,7 @@
 ## Answer Question 2
 
 
-## QUESTION 3: INTERPRET AN NMAP OUTPUT
+## Question 3: Interpret An Nmap Output
 1. What can an attacker do with each port?
 2. What vulnerabilities are likely present based on the version?
 3. Which one is the highest risk and why?
