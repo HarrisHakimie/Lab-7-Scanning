@@ -1,8 +1,8 @@
-## Lab-7-Scanning Task 7
+# LAB-7-SCANNING TASK 7
 
-# Question 1 : Analyse Packet1.Pcap And Find The Flag.
+## Question 1 : Analyse Packet1.Pcap And Find The Flag.
 
-# Answer Question 1 :
+## Answer Question 1 :
 
 <img width="1648" height="895" alt="TRY" src="https://github.com/user-attachments/assets/672b2cab-2577-409c-abaf-ffc13236277f" />
 
@@ -52,9 +52,15 @@ Example attack chain:
 4. Move laterally
 5. Access FTP / Web data
 
-## 6 Remediation
+## 5. Remediation
 Disable unused ports
 Update software
 Patch Windows (MS17-010)
 Use strong passwords
 Firewall rules
+
+## Question 4: Identify the OS (OS Fingerprinting) - TTL
+Image 1
+<img width="1150" height="405" alt="1" src="https://github.com/user-attachments/assets/a4e6200a-a04b-4823-96e0-2bf0ef7c3b03" />
+
+
