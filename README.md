@@ -1,12 +1,17 @@
 ## Lab-7-Scanning
 #TASK 7
 
-Question 1: Analyse packet1.pcap and find the flag.
+## Question 1 : Analyse packet1.pcap and find the flag.
 
-ANSWER :
+## ANSWER QUESTION 1 :
 <img width="1648" height="895" alt="TRY" src="https://github.com/user-attachments/assets/672b2cab-2577-409c-abaf-ffc13236277f" />
  
 <img width="450" height="228" alt="Screenshot 2026-04-30 165103" src="https://github.com/user-attachments/assets/86933de4-bcd9-430d-93f5-640fb547be43" />
+
+## Question 2 :
+
+## ANSWER QUESTION 2
+
 
 ## Question 3: Interpret an Nmap Output
 1. What can an attacker do with each port?
@@ -14,6 +19,8 @@ ANSWER :
 3. Which one is the highest risk and why?
 4. What attack path can be built from this?
 5. What should be the remediation?
+
+## ANSWER QUESTION 3
 
 ## 1. What attacker can do
 - Port 21 (FTP) Upload/download files Anonymous login attack
