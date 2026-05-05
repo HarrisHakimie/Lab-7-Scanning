@@ -13,6 +13,18 @@
 
 ## Answer Question 2
 
+<img width="1647" height="821" alt="Screenshot 2026-05-05 145641" src="https://github.com/user-attachments/assets/3e99d860-cab2-4c80-9549-5e0fc7dbb033" />
+
+<img width="1214" height="546" alt="Screenshot 2026-05-05 145719" src="https://github.com/user-attachments/assets/9ef55db2-3bf2-496b-8d3e-9439e3ca1b5e" />
+
+<img width="597" height="718" alt="Screenshot 2026-05-05 145753" src="https://github.com/user-attachments/assets/37d55a5f-ab9a-4cba-a15b-e71c02ee85ff" />
+
+<img width="754" height="751" alt="Screenshot 2026-05-05 145807" src="https://github.com/user-attachments/assets/d74d38c2-19cb-4b03-ae15-a3a171f7afd1" />
+
+<img width="756" height="238" alt="Screenshot 2026-05-05 145823" src="https://github.com/user-attachments/assets/9da71fc4-21d5-48dd-a8fd-fe810bd82447" />
+
+<img width="754" height="602" alt="Screenshot 2026-05-05 145844" src="https://github.com/user-attachments/assets/42ef21f8-0a3d-4028-ae66-a5e916521e43" />
+
 
 # Question 3 : Interpret An Nmap Output
 
