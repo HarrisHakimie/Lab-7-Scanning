@@ -65,11 +65,12 @@ Example attack chain:
 5. Access FTP / Web data
 
 ## 5. Remediation
-Disable unused ports
-Update software
-Patch Windows (MS17-010)
-Use strong passwords
-Firewall rules
+
+1. Disable unused ports
+2. Update software
+3. Patch Windows (MS17-010)
+4. Use strong passwords
+5. Firewall rules
 
 # Question 4: Identify the OS (OS Fingerprinting) - TTL
 The TTL value observed is 128, which indicates the system is likely running Windows OS.
