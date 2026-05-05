@@ -100,6 +100,8 @@ Image
 
 <img width="1637" height="712" alt="Screenshot 2026-05-05 144831" src="https://github.com/user-attachments/assets/34d7a12a-93ce-4633-9a89-22b524ef745a" /> 
 
+# Answer 
+
 1.	What is the affected Port number
    - Answer: 8009
   	
