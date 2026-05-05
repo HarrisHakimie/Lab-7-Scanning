@@ -99,6 +99,6 @@ Image
 4.	Can you find any exploit related to this vulnerability?
    - Answer: Yes, attackers can read sensitive files and potentially execute remote code.
       
-5.	Find CVE for this vulnerability. 
+5.	Find CVE for this vulnerability.
+   - Answer: CVE-2020-1938
 
-## Answer Question 5 : CVE-2020-1938
