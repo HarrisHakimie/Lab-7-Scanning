@@ -85,13 +85,20 @@ Image
 
 <img width="1600" height="738" alt="WhatsApp Image 2026-05-01 at 2 03 03 AM" src="https://github.com/user-attachments/assets/8cc2225a-8e29-4cb0-b3ae-64a7d79850c1" />
 
-
-
+<img width="1637" height="712" alt="Screenshot 2026-05-05 144831" src="https://github.com/user-attachments/assets/34d7a12a-93ce-4633-9a89-22b524ef745a" /> 
 
 1.	What is the affected Port number
+   - Answer: 8009
+  	
 2.	What is the Affected protocol
+   - Answer: Apache JServ Protocol
+  	
 3.	What is the CVSS Score of vulnerability found
+   - Answer: 9.8 (Critical)
+     
 4.	Can you find any exploit related to this vulnerability?
+   - Answer: Yes, attackers can read sensitive files and potentially execute remote code.
+      
 5.	Find CVE for this vulnerability. 
 
-## Answer Question 5 :
+## Answer Question 5 : CVE-2020-1938
